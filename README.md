@@ -6,4 +6,4 @@
 
 ## Get Hot Dogs!
 
-![Alt Text](https://giphy.com/gifs/dog-happiest-1LweXxLwVT0J2)
+![Alt Text](https://media.giphy.com/media/1LweXxLwVT0J2/giphy.gif)
