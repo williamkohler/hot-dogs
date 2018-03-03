@@ -1,0 +1,33 @@
+.home {
+  background-image: image-url("multa-media-240844-unsplash");
+  background-position: center top;
+  background-size: cover;
+  box-sizing: border-box;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+}
+
+.title {
+  color: #fb92a9;
+  // color: #FDFCEE;
+  font-size: 2em;
+  padding: 4%;
+}
+
+// Slightly Tint the background
+.layer {
+    background-color: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.emphasis {
+  font-style: italic;
+}
